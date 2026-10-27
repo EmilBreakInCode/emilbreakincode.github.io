@@ -1,0 +1,5 @@
+/* Syntax Highlight Tokens */
+.token-kw { color: #f43f5e; font-weight: bold; }
+.token-str { color: #10b981; }
+.token-num { color: #38bdf8; }
+.token-cmt { color: #94a3b8; font-style: italic; }

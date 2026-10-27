@@ -1,0 +1,110 @@
+[
+  {
+    "title": "Обзор проекта",
+    "category": "Основное",
+    "url": "index.html",
+    "keywords": "главная старт asub rest api"
+  },
+  {
+    "title": "Установка и развертывание",
+    "category": "Getting Started",
+    "url": "getting-started/index.html",
+    "keywords": "установка install setup docker"
+  },
+  {
+    "title": "Конфигурация",
+    "category": "Getting Started",
+    "url": "getting-started/configuration.html",
+    "keywords": "конфиг env настройки database"
+  },
+  {
+    "title": "Первые шаги",
+    "category": "Getting Started",
+    "url": "getting-started/first-steps.html",
+    "keywords": "быстрый старт quickstart запуск"
+  },
+  {
+    "title": "Руководства (Обзор)",
+    "category": "Guides",
+    "url": "guides/index.html",
+    "keywords": "гайды guides overview"
+  },
+  {
+    "title": "Аутентификация JWT",
+    "category": "Guides",
+    "url": "guides/authentication.html",
+    "keywords": "jwt auth login токен bearer"
+  },
+  {
+    "title": "Основы REST API",
+    "category": "Guides",
+    "url": "guides/api-basics.html",
+    "keywords": "rest http методы get post json"
+  },
+  {
+    "title": "Продвинутое использование",
+    "category": "Guides",
+    "url": "guides/advanced-usage.html",
+    "keywords": "advanced pagination фильтрация кэш"
+  },
+  {
+    "title": "Устранение неполадок",
+    "category": "Guides",
+    "url": "guides/troubleshooting.html",
+    "keywords": "ошибки debug status 401 500"
+  },
+  {
+    "title": "Справочник API",
+    "category": "API",
+    "url": "api/index.html",
+    "keywords": "эндпоинты api swagger postman"
+  },
+  {
+    "title": "API: Пользователи",
+    "category": "API",
+    "url": "api/users.html",
+    "keywords": "users профиль сотрудники"
+  },
+  {
+    "title": "API: Заказы",
+    "category": "API",
+    "url": "api/orders.html",
+    "keywords": "orders заявки статусы"
+  },
+  {
+    "title": "API: Вебхуки",
+    "category": "API",
+    "url": "api/webhooks.html",
+    "keywords": "webhooks события callbacks"
+  },
+  {
+    "title": "Примеры интеграции",
+    "category": "Examples",
+    "url": "examples/index.html",
+    "keywords": "примеры code examples"
+  },
+  {
+    "title": "Пример 1: Android Auth",
+    "category": "Examples",
+    "url": "examples/example-1.html",
+    "keywords": "android kotlin retrofit auth"
+  },
+  {
+    "title": "Пример 2: Получение данных",
+    "category": "Examples",
+    "url": "examples/example-2.html",
+    "keywords": "android kotlin fetch json"
+  },
+  {
+    "title": "Changelog",
+    "category": "Разное",
+    "url": "changelog.html",
+    "keywords": "версии релизы v1 v2"
+  },
+  {
+    "title": "FAQ",
+    "category": "Разное",
+    "url": "faq.html",
+    "keywords": "вопросы ответы faq cdn"
+  }
+]
