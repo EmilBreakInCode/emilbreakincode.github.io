@@ -1,7 +1,8 @@
 /* Main Docs Styles */
 :root {
   --primary: #0284c7;
-  --bg-main: #f8fafc;
+  /*--bg-main: #f8fafc;*/
+  --bg-main: #ffe4e6; /* Новый цвет фона для проверки инвалидации */
   --bg-card: #ffffff;
   --text-main: #0f172a;
   --text-muted: #64748b;
